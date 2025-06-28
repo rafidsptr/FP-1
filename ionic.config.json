@@ -1,0 +1,7 @@
+{
+  "name": "bagianaing",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
